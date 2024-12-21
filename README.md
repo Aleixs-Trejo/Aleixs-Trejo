@@ -31,7 +31,7 @@ I am a frontend oriented web developer, I also have backend knowledge and I am l
 ![GitHub](https://img.shields.io/badge/github-%230b132b.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## Check out my socials
-<a href="https://www.instagram.com/alesis.nakano/"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://www.facebook.com/profile.php?id=100009600247397"><img src="https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/alexis-trejo-b60437202/"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://qm.qq.com/q/RjLSLVJ64E"><img src="https://img.shields.io/badge/QQ-EB1923.svg?style=for-the-badge&logo=tencent-qq&logoColor=white" /></a>
+<a href="https://www.instagram.com/alesis.nakano/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.facebook.com/profile.php?id=100009600247397" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/alexis-trejo-b60437202/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://qm.qq.com/q/RjLSLVJ64E" target="_blank"><img src="https://img.shields.io/badge/QQ-EB1923.svg?style=for-the-badge&logo=tencent-qq&logoColor=white" /></a>
