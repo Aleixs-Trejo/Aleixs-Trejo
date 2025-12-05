@@ -1,8 +1,8 @@
 <h1 align="center">Hi , I'm Alexis Trejo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif?cid=790b7611nivqf46z155047qej1lynpgj7lpivyannkyd5u9u&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+<img align="right" width=300px alt="Unicorn" src="https://i.giphy.com/3oKIPnAiaMCws8nOsE.webp" />
 
-<img src="https://i.giphy.com/3oKIPnAiaMCws8nOsE.webp" width="30px">&nbsp;***About me***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 I am a frontend developer, I also have backend knowledge and I am learning new technologies every day. I love to learn and build something new, productive, innovative and creative.
 * **I am interested in Web development and Game development**
